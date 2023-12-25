@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center"><img style="max-width: 100%; max-height: 100%;" src="https://github.com/faheemGurkani/faheemGurkani/assets/137767435/57589493-cc65-448d-a212-f6320876dcb1" alt="Centered Image"></p>
+<p align="center"><img src="https://github.com/faheemGurkani/faheemGurkani/assets/137767435/0da54d8b-c8f6-4ffa-a3bd-520aac17ec40" alt="Centered Image"></p>
 
 <br>
 
