@@ -16,7 +16,7 @@
 <h3>> Streak Stats</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="181px" alt="faheemGurkani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faheemGurkani&show_icons=true&count_private=true&theme=algolia">
+    <img height="181px" alt="faheemGurkani's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faheemGurkani&show_icons=true&count_private=true&theme=algolia">
   </a>
 </p>
 
@@ -24,7 +24,7 @@
 
 <h3>> Language Stats</h3>
 <p align="center">
-  <img height="181px" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemgurkani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="faheemGurkani">
+  <img height="181px" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemgurkani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="faheemGurkani GitHub Language Stats">
 </p>
 
 <br>
@@ -35,7 +35,7 @@
 
 <h3>> Streak Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheemgurkani&theme=algolia" alt="faheemGurkani's Streak Stats"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheemgurkani&theme=algolia" alt="faheemGurkani's GitHub Streak Stats"  />
 </p>
 
 <br>
