@@ -3,7 +3,7 @@
 
 <br>
 
-<p align="center"><img src="https://github.com/faheemGurkani/faheemGurkani/assets/137767435/0da54d8b-c8f6-4ffa-a3bd-520aac17ec40" alt="Centered Image"></p>
+<p align="center"><img src="https://github.com/faheemGurkani/faheemGurkani/assets/137767435/0da54d8b-c8f6-4ffa-a3bd-520aac17ec40" alt="faheemGurkani"></p>
 
 <br>
 
@@ -16,7 +16,7 @@
 <h3>> Streak Stats</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="181px" alt="faheemGurkani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faheemgurkani&show_icons=true&count_private=true&theme=algolia">
+    <img height="181px" alt="faheemGurkani's Github Stats" src="https://github-readme-stats.vercel.app/api?username=faheemGurkani&show_icons=true&count_private=true&theme=algolia">
   </a>
 </p>
 
@@ -35,7 +35,7 @@
 
 <h3>> Streak Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HxnDev&theme=algolia" alt="HxnDev"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheemgurkani&theme=algolia" alt="faheemGurkani's Streak Stats"  />
 </p>
 
 <br>
