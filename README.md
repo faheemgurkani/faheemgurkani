@@ -16,7 +16,7 @@
 <h3>> General Stats</h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="181px" alt="faheemGurkani's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faheemGurkani&show_icons=true&count_private=true&theme=algolia">
+    <img height="181px" alt="faheemGurkani's General GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faheemGurkani&show_icons=true&count_private=true&theme=algolia">
   </a>
 </p>
 <hr>
