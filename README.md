@@ -22,7 +22,7 @@
 <hr>
 <h3>> Language Stats</h3>
 <p align="center">
-  <img height="181px" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemgurkani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="faheemGurkani GitHub Language Stats">
+  <img height="181px" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemgurkani&show_icons=true&locale=en&layout=compact&theme=algolia" alt="faheemGurkani's GitHub Language Stats">
 </p>
 
 <br>
