@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faheem</h1>
-<h3 align="center">Driven by Data and AI | Developing Insights Through the Frontiers of Data Science and Artificial Intelligence | SOPHOMORE</h3>
+<h3 align="center">Driven by Data and AI | Developing Insights Through the Frontiers of Data Science and Artificial Intelligence | JUNIOR</h3>
 
 <br>
 
