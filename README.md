@@ -1,11 +1,13 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Muhammad Faheem</h1>
+<h1 align="center" decorations="None">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Muhammad Faheem</h1>
 
+<br>
 <br>
 
 <p align="center">
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&duration=4700&pause=299&color=BABABA&center=true&random=false&width=435&lines=Amateurs+seek+the+sun...;Get+eaten...;Power+stays+in+the+shadows.;-+Lewis+Strauss" alt="Typing SVG" /></a>
 </p>
 
+<br>
 <hr>
 
 <h3 align="center">Driven by Data and AI | Developing Insights Through the Frontiers of Data Science and Artificial Intelligence | JUNIOR</h3>
