@@ -10,7 +10,7 @@
 <br>
 <hr>
 
-<h3 align="center">Driven by Data and AI | Developing Insights Through the Frontiers of Data Science and Artificial Intelligence | JUNIOR</h3>
+<h3 align="center">Navigating Through Data Science and AI Perspectives @FAST-NUCES | Researcher | ML & DL | Generative AI | LLMs | NLP | Computer Vision | Acoustic Modeling | Cloud</h3>
 
 <br>
 
