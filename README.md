@@ -43,7 +43,7 @@
 <hr>
 <h3>> Streak Stats;</h3>
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=faheemgurkani&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=faheemgurkani&theme=highcontrast)](https://git.io/streak-stats)
 </p>
 
 <br>
