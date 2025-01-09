@@ -14,16 +14,20 @@
 
 <br>
 
-<p align="center"><img src="https://github.com/faheemGurkani/faheemGurkani/assets/137767435/0da54d8b-c8f6-4ffa-a3bd-520aac17ec40" alt="faheemGurkani"></p>
+<p align="center">
+	<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&redirect=true">
+	  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" />
+	</a>
+</p>
+
+<!-- <p align="center"><img src="https://github.com/faheemGurkani/faheemGurkani/assets/137767435/0da54d8b-c8f6-4ffa-a3bd-520aac17ec40" alt="faheemGurkani"></p>  -->
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=faheemgurkani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="faheemGurkani"/></p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=faheemgurkani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="faheemGurkani"/></p> -->
 
 <br>
-<!-- <hr>
-<br>
- -->
+
 <h2 align="left">📊 <b>GitHub Profile Statistics: </b></h2>
 <h3><u>> General Stats;</u></h3>
 <p align="center">
@@ -44,5 +48,11 @@
 <br>
 
 <h2 align="left">🌐 Connect With Me:</h2>
+
+<p>
+	<a href="www.linkedin.com/in/muhammad-faheem-367a1b279" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>&nbsp;&nbsp;&nbsp;
+	<a href="mailto:faheemgurkani@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=&logoColor=white" alt="" /></a>&nbsp;&nbsp;
+	<a href="https://medium.com/@faheemgurkani" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=&logoColor=white" alt="" /></a>
+</p>
 
 <br>
