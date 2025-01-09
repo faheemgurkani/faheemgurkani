@@ -40,13 +40,6 @@
 <br>
 
 <p align="left"><b>Note:</b> Language metric is just an estimation of the languages involved in my public repositories; and doesn't reflect experience or skill level.</p>
-<hr>
-<h3>> Streak Stats;</h3>
-<p align="center">
-	<a href="https://git.io/streak-stats">
-		<img src="https://streak-stats.demolab.com?user=FaheemGurkani&theme=algolia&mode=weekly" alt="faheemGurkani's GitHub Streak Stats" />
-	</a>
-</p>
 
 <br>
 
