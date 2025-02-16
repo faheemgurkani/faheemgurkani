@@ -10,7 +10,7 @@
 <br>
 <hr>
 
-<h3 align="center">Navigating Through Data Science and AI Perspectives @FAST-NUCES | Researcher | ML & DL | Generative AI | Computer Vision | NLP | LLMs</h3>
+<h3 align="center">Navigating Through Data Science and AI Perspectives @FAST-NUCES | Researcher | ML & DL | Generative AI | Computer Vision | NLP | LLMs | Cloud</h3>
 
 <br>
 <br>
@@ -27,15 +27,15 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=faheemgurkani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="faheemGurkani"/></p> -->
 
-<h2 align="left">📊 <b>GitHub Profile Statistics: </b></h2>
-<h3><u>> General Stats;</u></h3>
+<h2 align="left">📊 <b>GitHub Profile Statistics </b></h2>
+<h3><u>> General Stats</u></h3>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="181px" alt="faheemGurkani's General GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faheemGurkani&show_icons=true&count_private=true&theme=github_dark">
   </a>
 </p>
 <hr>
-<h3>> Language Stats;</h3>
+<h3>> Language Stats</h3>
 <p align="center">
   <img height="181px" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemgurkani&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="faheemGurkani's GitHub Language Stats">
 </p>
@@ -46,7 +46,7 @@
 
 <br>
 
-<h2 align="left">🌐 Connect With Me:</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 
 <p>
 	<a href="www.linkedin.com/in/muhammad-faheem-367a1b279" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>&nbsp;&nbsp;&nbsp;
