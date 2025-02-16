@@ -27,8 +27,6 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=faheemgurkani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="faheemGurkani"/></p> -->
 
-<br>
-
 <h2 align="left">📊 <b>GitHub Profile Statistics: </b></h2>
 <h3><u>> General Stats;</u></h3>
 <p align="center">
