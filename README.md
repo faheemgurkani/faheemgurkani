@@ -13,6 +13,7 @@
 <h3 align="center">Navigating Through Data Science and AI Perspectives @FAST-NUCES | Researcher | ML & DL | Generative AI | Computer Vision | NLP | LLMs</h3>
 
 <br>
+<br>
 
 <p align="center">
 	<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&redirect=true">
