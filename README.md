@@ -10,7 +10,7 @@
 <br>
 <hr>
 
-<h3 align="center">Navigating Through Data Science and AI Perspectives @FAST-NUCES | Researcher | ML & DL | Generative AI | Computer Vision | NLP | LLMs | Cloud</h3>
+<h3 align="center">Navigating Through Data Science and AI Perspectives @FAST-NUCES | Researcher | Generative AI | ML & DL | Computer Vision | NLP | LLMs | Cloud</h3>
 
 <br>
 <br>
