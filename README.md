@@ -50,10 +50,18 @@
 <h2 align="left">🌐 Connect With Me</h2>
 
 <p>
-	<a href="www.linkedin.com/in/muhammad-faheem-367a1b279" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="" /></a>&nbsp;&nbsp;&nbsp;
-	<a href="mailto:faheemgurkani@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=&logoColor=white" alt="" /></a>&nbsp;&nbsp;
-	<a href="https://medium.com/@faheemgurkani" target="blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=&logoColor=white" alt="" /></a>&nbsp;&nbsp;
-	<a href="https://www.kaggle.com/faheemgurkani" target="blank"><img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=&logoColor=white" alt="" /></a>
+	<a href="https://www.linkedin.com/in/muhammad-faheem-367a1b279" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+	</a>&nbsp;&nbsp;&nbsp;
+	<a href="mailto:faheemgurkani@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+	</a>&nbsp;&nbsp;
+	<a href="https://www.kaggle.com/faheemgurkani" target="_blank">
+		<img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+	</a>&nbsp;&nbsp;
+	<a href="https://medium.com/@faheemgurkani" target="_blank">
+		<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+	</a>
 </p>
 
 <br>
