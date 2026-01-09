@@ -46,8 +46,6 @@
 
 <p align="left"><b>Note:</b> Language metric is just an estimation of the languages involved in my public repositories; and doesn't reflect experience or skill level.</p>
 
-<br>
-
 <h2 align="left">🌐 Connect With Me</h2>
 
 <p>
