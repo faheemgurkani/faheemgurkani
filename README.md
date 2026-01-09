@@ -32,14 +32,14 @@
 <h2 align="left">📊 <b>GitHub Profile Statistics </b></h2>
 <h3><u>> General Stats</u></h3>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="181px" alt="faheemGurkani's General GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=faheemGurkani&show_icons=true&count_private=true&theme=github_dark">
+  <a href="https://github.com/faheemgurkani/github-readme-stats">
+    <img height="181px" alt="faheemGurkani's General GitHub Stats" src="https://github-readme-stats-indol-beta-26.vercel.app/api?username=faheemGurkani&show_icons=true&count_private=true&theme=github_dark">
   </a>
 </p>
 <hr>
 <h3>> Language Stats</h3>
 <p align="center">
-  <img height="181px" src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemgurkani&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="faheemGurkani's GitHub Language Stats">
+  <img height="181px" src="https://github-readme-stats-indol-beta-26.vercel.app/api/top-langs?username=faheemgurkani&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="faheemGurkani's GitHub Language Stats">
 </p>
 
 <br>
