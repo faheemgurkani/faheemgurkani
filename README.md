@@ -5,10 +5,11 @@
 
 <p align="center">
 <!-- 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=500&duration=4700&pause=299&color=BABABA&center=true&random=false&width=435&lines=Amateurs+seek+the+sun...;Get+eaten...;Power+stays+in+the+shadows.;-+Lewis+Strauss" alt="Typing SVG" /></a> -->
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=21&duration=4700&pause=300&color=BABABA&center=true&width=435&lines=Success+consists+of...;going+from+failure+to+failure...;without+loss+of+enthusiasm.;-+Winston+Churchill" alt="Typing SVG" /></a>
+	<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&weight=500&size=21&duration=4700&pause=300&color=BABABA&center=true&width=435&lines=Success+consists+of...;going+from+failure+to+failure...;without+loss+of+enthusiasm.;-+Winston+Churchill" alt="Typing SVG" /></a> -->
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3751&pause=1&color=BABABA&center=true&multiline=true&width=435&height=150&lines=%E2%80%9CIn+the+midst+of+chaos%2C;+there+is+also+opportunity%E2%80%9D;+;%E2%80%95+Sun-Tzu%2C+A+Arte+da+Guerra" alt="Typing SVG" /></a>
 </p>
 
-<br>
+<!-- <br> -->
 <hr>
 
 <h3 align="center">Senior @FAST-NUCES | Researcher | Generative AI | ML & DL | Computer Vision | NLP | LLMs | Cloud</h3>
