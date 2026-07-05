@@ -46,7 +46,7 @@
 
 <p align="left"><b>Note:</b> Language metric is just an estimation of the languages involved in my public repositories; and doesn't reflect experience or skill level.</p>
 
-<h2 align="left">🌐 Connect With Me</h2>
+<!-- <h2 align="left">🌐 Connect With Me</h2>
 
 <p>
 	<a href="https://www.linkedin.com/in/muhammad-faheem-367a1b279" target="_blank">
@@ -60,6 +60,32 @@
 	</a>&nbsp;&nbsp;
 	<a href="https://medium.com/@faheemgurkani" target="_blank">
 		<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+	</a>
+</p> -->
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+<p>
+	<a href="mailto:faheemgurkani@gmail.com" target="_blank">
+		<img src="https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+	</a>&nbsp;&nbsp;
+	<a href="https://www.kaggle.com/faheemgurkani" target="_blank">
+		<img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+	</a>&nbsp;&nbsp;
+	<a href="https://medium.com/@faheemgurkani" target="_blank">
+		<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+	</a>&nbsp;&nbsp;
+	<a href="https://substack.com/@faheemgurkani" target="_blank">
+		<img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" />
+	</a>&nbsp;&nbsp;
+	<!-- <a href="https://x.com/faheemGurkani" target="_blank">
+		<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+	</a>&nbsp;&nbsp;&nbsp; -->
+	<a href="https://x.com/faheemGurkani" target="_blank">
+    <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+	</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://www.linkedin.com/in/muhammad-faheem-367a1b279" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 	</a>
 </p>
 
