@@ -18,9 +18,9 @@
 <br>
 
 <p align="center">
-	<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&redirect=true">
-	  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" />
-	</a>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" />
+  </a>
 </p>
 
 <!-- <p align="center"><img src="https://github.com/faheemGurkani/faheemGurkani/assets/137767435/0da54d8b-c8f6-4ffa-a3bd-520aac17ec40" alt="faheemGurkani"></p>  -->
