@@ -12,7 +12,7 @@
 <!-- <br> -->
 <hr>
 
-<h3 align="center">Researcher | Generative AI | ML & DL | Computer Vision | NLP | LLMs | Cloud | DevOps</h3>
+<h3 align="center">AI/ML Researcher | IEEE Published Author</h3>
 
 <br>
 <br>
