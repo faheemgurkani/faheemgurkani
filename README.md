@@ -1,5 +1,7 @@
 <h1 align="center" decorations="None">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Muhammad Faheem</h1>
 
+<h3 align="center">AI/ML Research Engineer | IEEE Published Author</h3>
+
 <br>
 <br>
 
@@ -9,23 +11,7 @@
 	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3751&pause=1&color=BABABA&center=true&multiline=true&width=435&height=150&lines=%E2%80%9CIn+the+midst+of+chaos%2C;+there+is+also+opportunity%E2%80%9D;+;%E2%80%95+Sun-Tzu%2C+A+Arte+da+Guerra" alt="Typing SVG" /></a>
 </p>
 
-<!-- <br> -->
-<hr>
-
-<h3 align="center">AI/ML Research Engineer | IEEE Published Author</h3>
-
-<br>
-<br>
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" />
-  </a>
-</p>
-
 <!-- <p align="center"><img src="https://github.com/faheemGurkani/faheemGurkani/assets/137767435/0da54d8b-c8f6-4ffa-a3bd-520aac17ec40" alt="faheemGurkani"></p>  -->
-
-<br>
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=faheemgurkani&label=Profile%20Views&color=0e75b6&style=flat-square" alt="faheemGurkani"/></p> -->
 
@@ -90,3 +76,10 @@
 </p>
 
 <br>
+<br>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31s7sk5rygjmtvf7pv4v7tlpg3di&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify GitHub Profile" />
+  </a>
+</p>
