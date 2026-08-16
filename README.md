@@ -87,13 +87,14 @@
       alt="Spotify"
     />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
+    width="3"
     style="vertical-align:middle;"
-    src="https://readme-typing-svg.demolab.com?font=monospace&size=40&duration=9999999&pause=9999999&color=6e7681&center=true&vCenter=true&width=14&height=100&lines=|"
+    src="https://raw.githubusercontent.com/faheemgurkani/faheemgurkani/main/divider.svg"
     alt="|"
   />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://steamcommunity.com/profiles/76561199663064545">
     <img
       width="340"
